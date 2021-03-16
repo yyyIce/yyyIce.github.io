@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>P4 on 咸鱼冰 | Design &amp; Project</title>
+    <link>https://yyyIce.github.io/zh/tags/p4/</link>
+    <description>Recent content in P4 on 咸鱼冰 | Design &amp; Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>yyyIce727@163.com (咸鱼冰)</managingEditor>
+    <webMaster>yyyIce727@163.com (咸鱼冰)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 01 Feb 2021 12:00:06 +0900</lastBuildDate>
+    
+        <atom:link href="https://yyyIce.github.io/zh/tags/p4/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>论文阅读：卸载实时DDoS攻击检测到可编程数据平面</title>
+        <link>https://yyyIce.github.io/zh/posts/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E5%8D%B8%E8%BD%BD%E5%AE%9E%E6%97%B6ddos%E6%94%BB%E5%87%BB%E6%A3%80%E6%B5%8B%E5%88%B0%E5%8F%AF%E7%BC%96%E7%A8%8B%E6%95%B0%E6%8D%AE%E5%B9%B3%E9%9D%A2/</link>
+        <pubDate>Mon, 01 Feb 2021 12:00:06 +0900</pubDate>
+        <author>yyyIce727@163.com (咸鱼冰)</author>
+        <atom:modified>Mon, 01 Feb 2021 12:00:06 +0900</atom:modified>
+        <guid>https://yyyIce.github.io/zh/posts/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E5%8D%B8%E8%BD%BD%E5%AE%9E%E6%97%B6ddos%E6%94%BB%E5%87%BB%E6%A3%80%E6%B5%8B%E5%88%B0%E5%8F%AF%E7%BC%96%E7%A8%8B%E6%95%B0%E6%8D%AE%E5%B9%B3%E9%9D%A2/</guid>
+        <description>论文名称：Offloading Real-time DDoS Attack Detection to Programmable Data Planes 会议信息：2020 IFIP Networking Conference (Networking) 成果：在受到DDoS攻击时，源IP地址和目标IP地址的分布往往会偏离</description>
+        
+        <dc:creator>咸鱼冰</dc:creator>
+        <media:content url="https://yyyIce.github.io/images/feature3/paper.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>P4</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>paper</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>论文阅读：基于P4的机器学习辅助DDoS攻击检测</title>
+        <link>https://yyyIce.github.io/zh/posts/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E5%9F%BA%E4%BA%8Ep4%E7%9A%84%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%BE%85%E5%8A%A9ddos%E6%94%BB%E5%87%BB%E6%A3%80%E6%B5%8B/</link>
+        <pubDate>Wed, 20 Jan 2021 12:00:06 +0900</pubDate>
+        <author>yyyIce727@163.com (咸鱼冰)</author>
+        <atom:modified>Wed, 20 Jan 2021 12:00:06 +0900</atom:modified>
+        <guid>https://yyyIce.github.io/zh/posts/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E5%9F%BA%E4%BA%8Ep4%E7%9A%84%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%BE%85%E5%8A%A9ddos%E6%94%BB%E5%87%BB%E6%A3%80%E6%B5%8B/</guid>
+        <description>论文名称：Machine-learning-assisted DDoS attack detection with P4 language 会议信息：2020 IEEE International Conference on Communications (ICC). IEEE, 2020: 1-6. 成果：开发了用于SDN网络的机器</description>
+        
+        <dc:creator>咸鱼冰</dc:creator>
+        <media:content url="https://yyyIce.github.io/images/feature3/paper.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>P4</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>paper</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>论文阅读：基于P4的安全重复地址检测</title>
+        <link>https://yyyIce.github.io/zh/posts/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E5%9F%BA%E4%BA%8Ep4%E7%9A%84%E5%AE%89%E5%85%A8%E9%87%8D%E5%A4%8D%E5%9C%B0%E5%9D%80%E6%A3%80%E6%B5%8B/</link>
+        <pubDate>Fri, 15 Jan 2021 12:00:06 +0900</pubDate>
+        <author>yyyIce727@163.com (咸鱼冰)</author>
+        <atom:modified>Fri, 15 Jan 2021 12:00:06 +0900</atom:modified>
+        <guid>https://yyyIce.github.io/zh/posts/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E5%9F%BA%E4%BA%8Ep4%E7%9A%84%E5%AE%89%E5%85%A8%E9%87%8D%E5%A4%8D%E5%9C%B0%E5%9D%80%E6%A3%80%E6%B5%8B/</guid>
+        <description>论文名称：P4DAD: Securing Duplicate Address Detection Using P4 会议信息：2020 IEEE International Conference on Communications (ICC). IEEE, 2020: 1-7. 成果：提出了P4DAD，是一种轻量级，可部署，健壮，安全的DAD机制。</description>
+        
+        <dc:creator>咸鱼冰</dc:creator>
+        <media:content url="https://yyyIce.github.io/images/feature3/paper.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>P4</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>paper</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>论文阅读：基于P4的ECN滥用防御</title>
+        <link>https://yyyIce.github.io/zh/posts/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E5%9F%BA%E4%BA%8Ep4%E7%9A%84ecn%E5%8D%8F%E8%AE%AE%E6%BB%A5%E7%94%A8%E9%98%B2%E5%BE%A1/</link>
+        <pubDate>Thu, 07 Jan 2021 12:00:06 +0900</pubDate>
+        <author>yyyIce727@163.com (咸鱼冰)</author>
+        <atom:modified>Thu, 07 Jan 2021 12:00:06 +0900</atom:modified>
+        <guid>https://yyyIce.github.io/zh/posts/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E5%9F%BA%E4%BA%8Ep4%E7%9A%84ecn%E5%8D%8F%E8%AE%AE%E6%BB%A5%E7%94%A8%E9%98%B2%E5%BE%A1/</guid>
+        <description>论文名称：Defeating Protocol Abuse with P4: Application to Explicit Congestion Notification 会议信息：2020 IFIP Networking Conference (Networking) 成果：提出进行网络验证的EFSM通用抽象，实现安全监视功能，以ECN</description>
+        
+        <dc:creator>咸鱼冰</dc:creator>
+        <media:content url="https://yyyIce.github.io/images/feature3/paper.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>P4</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>paper</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>论文阅读：基于P4的SIP DDoS攻击防御</title>
+        <link>https://yyyIce.github.io/zh/posts/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E5%9F%BA%E4%BA%8Ep4%E7%9A%84sip-ddos%E6%94%BB%E5%87%BB%E9%98%B2%E5%BE%A1/</link>
+        <pubDate>Tue, 05 Jan 2021 12:00:06 +0900</pubDate>
+        <author>yyyIce727@163.com (咸鱼冰)</author>
+        <atom:modified>Tue, 05 Jan 2021 12:00:06 +0900</atom:modified>
+        <guid>https://yyyIce.github.io/zh/posts/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E5%9F%BA%E4%BA%8Ep4%E7%9A%84sip-ddos%E6%94%BB%E5%87%BB%E9%98%B2%E5%BE%A1/</guid>
+        <description>论文名称：Distributed SIP DDoS Defense with P4 会议信息：2019 IEEE Wireless Communications and Networking Conference (WCNC) 成果：利用可编程交换机缓解SIP INVITE DDoS攻击 贡献：通过对以太网交</description>
+        
+        <dc:creator>咸鱼冰</dc:creator>
+        <media:content url="https://yyyIce.github.io/images/feature3/paper.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>P4</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>paper</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>NetCache ：基于网络内缓存快速均衡键值存储负载</title>
+        <link>https://yyyIce.github.io/zh/posts/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BBnetcache/</link>
+        <pubDate>Wed, 30 Dec 2020 12:00:06 +0900</pubDate>
+        <author>yyyIce727@163.com (咸鱼冰)</author>
+        <atom:modified>Wed, 30 Dec 2020 12:00:06 +0900</atom:modified>
+        <guid>https://yyyIce.github.io/zh/posts/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BBnetcache/</guid>
+        <description>论文名称：NetCache: Balancing Key-Value Stores with Fast In-Network Caching 会议信息：SOSP ’17, October 28, 2017, Shanghai, China 成果：利用ToR可编程交换机做缓存层，实现机架规模的数十亿吞吐</description>
+        
+        <dc:creator>咸鱼冰</dc:creator>
+        <media:content url="https://yyyIce.github.io/images/feature3/paper.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>P4</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>paper</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>SilkRoad ：使用ASIC交换机作为高速低成本的有状态四层负载均衡器</title>
+        <link>https://yyyIce.github.io/zh/posts/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BBsilkroad/</link>
+        <pubDate>Wed, 29 Apr 2020 12:00:06 +0900</pubDate>
+        <author>yyyIce727@163.com (咸鱼冰)</author>
+        <atom:modified>Wed, 29 Apr 2020 12:00:06 +0900</atom:modified>
+        <guid>https://yyyIce.github.io/zh/posts/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BBsilkroad/</guid>
+        <description>论文名称：SilkRoad: Making Stateful Layer-4 Load Balancing Fast and Cheap Using Switching ASICs 会议信息：SIGCOMM ’17, August 21–25, 2017, Los Angeles, CA, USA 成果：在switch.p4的基础上</description>
+        
+        <dc:creator>咸鱼冰</dc:creator>
+        <media:content url="https://yyyIce.github.io/images/feature3/paper.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>P4</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>paper</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

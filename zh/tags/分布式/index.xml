@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>分布式 on 咸鱼冰 | Design &amp; Project</title>
+    <link>https://yyyIce.github.io/zh/tags/%E5%88%86%E5%B8%83%E5%BC%8F/</link>
+    <description>Recent content in 分布式 on 咸鱼冰 | Design &amp; Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>yyyIce727@163.com (咸鱼冰)</managingEditor>
+    <webMaster>yyyIce727@163.com (咸鱼冰)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 16 Mar 2021 12:00:06 +0900</lastBuildDate>
+    
+        <atom:link href="https://yyyIce.github.io/zh/tags/%E5%88%86%E5%B8%83%E5%BC%8F/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>研究方法：机器学习</title>
+        <link>https://yyyIce.github.io/zh/posts/%E7%A0%94%E7%A9%B6%E6%96%B9%E6%B3%95%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</link>
+        <pubDate>Tue, 16 Mar 2021 12:00:06 +0900</pubDate>
+        <author>yyyIce727@163.com (咸鱼冰)</author>
+        <atom:modified>Tue, 16 Mar 2021 12:00:06 +0900</atom:modified>
+        <guid>https://yyyIce.github.io/zh/posts/%E7%A0%94%E7%A9%B6%E6%96%B9%E6%B3%95%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</guid>
+        <description>机器学习入门 1 基本概念 注：仅作简要介绍，帮助理解。需要阅读或学习过《机器学习》、《线性代数》课程（可以没学明白，但得上过课）。 1.1 线性代数 向量</description>
+        
+        <dc:creator>咸鱼冰</dc:creator>
+        <media:content url="https://yyyIce.github.io/images/feature3/method.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>分布式</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>method</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>工具使用：S3</title>
+        <link>https://yyyIce.github.io/zh/posts/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8s3/</link>
+        <pubDate>Tue, 05 Jan 2021 12:00:06 +0900</pubDate>
+        <author>yyyIce727@163.com (咸鱼冰)</author>
+        <atom:modified>Tue, 05 Jan 2021 12:00:06 +0900</atom:modified>
+        <guid>https://yyyIce.github.io/zh/posts/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8s3/</guid>
+        <description>1 概述 S3: Simple Storage Service 是对象存储服务，具体来说是可以通过一个URL（如http://endpoint_url/&amp;lt;bucket_name&amp;gt;</description>
+        
+        <dc:creator>咸鱼冰</dc:creator>
+        <media:content url="https://yyyIce.github.io/images/feature3/chilun.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>分布式</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>tools</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>工具使用：Kafka</title>
+        <link>https://yyyIce.github.io/zh/posts/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8kafka/</link>
+        <pubDate>Mon, 04 Jan 2021 12:00:06 +0900</pubDate>
+        <author>yyyIce727@163.com (咸鱼冰)</author>
+        <atom:modified>Mon, 04 Jan 2021 12:00:06 +0900</atom:modified>
+        <guid>https://yyyIce.github.io/zh/posts/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8kafka/</guid>
+        <description>1 概述 Kafka是消息系统。 消息系统：在应用程序之间发送消息 应用场景：日志收集系统和消息系统，采用发布-订阅模式 常用的Message Queu</description>
+        
+        <dc:creator>咸鱼冰</dc:creator>
+        <media:content url="https://yyyIce.github.io/images/feature3/kafka.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>分布式</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>tools</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

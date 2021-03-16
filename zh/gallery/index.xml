@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Galleries on 咸鱼冰 | Design &amp; Project</title>
+    <link>https://yyyIce.github.io/zh/gallery/</link>
+    <description>Recent content in Galleries on 咸鱼冰 | Design &amp; Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>yyyIce727@163.com (咸鱼冰)</managingEditor>
+    <webMaster>yyyIce727@163.com (咸鱼冰)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 15 Dec 2020 10:20:16 +0900</lastBuildDate>
+    
+        <atom:link href="https://yyyIce.github.io/zh/gallery/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>随拍</title>
+        <link>https://yyyIce.github.io/zh/gallery/%E9%9A%8F%E6%8B%8D/</link>
+        <pubDate>Tue, 15 Dec 2020 10:20:16 +0900</pubDate>
+        <author>yyyIce727@163.com (咸鱼冰)</author>
+        <atom:modified>Tue, 15 Dec 2020 10:20:16 +0900</atom:modified>
+        <guid>https://yyyIce.github.io/zh/gallery/%E9%9A%8F%E6%8B%8D/</guid>
+        <description>Some photos.</description>
+        
+        <dc:creator>咸鱼冰</dc:creator>
+        <media:content url="https://yyyIce.github.io/images/feature2/camera.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>随笔</title>
+        <link>https://yyyIce.github.io/zh/gallery/%E9%9A%8F%E7%AC%94/</link>
+        <pubDate>Tue, 15 Dec 2020 10:20:16 +0900</pubDate>
+        <author>yyyIce727@163.com (咸鱼冰)</author>
+        <atom:modified>Tue, 15 Dec 2020 10:20:16 +0900</atom:modified>
+        <guid>https://yyyIce.github.io/zh/gallery/%E9%9A%8F%E7%AC%94/</guid>
+        <description>随便画画。</description>
+        
+        <dc:creator>咸鱼冰</dc:creator>
+        <media:content url="https://yyyIce.github.io/images/feature2/drawing.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>练习</title>
+        <link>https://yyyIce.github.io/zh/gallery/%E7%BB%83%E4%B9%A0/</link>
+        <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
+        <author>yyyIce727@163.com (咸鱼冰)</author>
+        <atom:modified>Thu, 31 Oct 2019 10:20:16 +0900</atom:modified>
+        <guid>https://yyyIce.github.io/zh/gallery/%E7%BB%83%E4%B9%A0/</guid>
+        <description>Sample images from Pixabay</description>
+        
+        <dc:creator>咸鱼冰</dc:creator>
+        <media:content url="https://yyyIce.github.io/images/feature2/exercise.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

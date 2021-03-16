@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Series on 咸鱼冰 | Design &amp; Project</title>
+    <link>https://yyyIce.github.io/zh/series/</link>
+    <description>Recent content in Series on 咸鱼冰 | Design &amp; Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>yyyIce727@163.com (咸鱼冰)</managingEditor>
+    <webMaster>yyyIce727@163.com (咸鱼冰)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 16 Mar 2021 12:00:06 +0900</lastBuildDate>
+    
+        <atom:link href="https://yyyIce.github.io/zh/series/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>method</title>
+        <link>https://yyyIce.github.io/zh/series/method/</link>
+        <pubDate>Tue, 16 Mar 2021 12:00:06 +0900</pubDate>
+        <author>yyyIce727@163.com (咸鱼冰)</author>
+        
+        <guid>https://yyyIce.github.io/zh/series/method/</guid>
+        <description></description>
+        
+        <dc:creator>咸鱼冰</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>paper</title>
+        <link>https://yyyIce.github.io/zh/series/paper/</link>
+        <pubDate>Mon, 01 Feb 2021 12:00:06 +0900</pubDate>
+        <author>yyyIce727@163.com (咸鱼冰)</author>
+        
+        <guid>https://yyyIce.github.io/zh/series/paper/</guid>
+        <description></description>
+        
+        <dc:creator>咸鱼冰</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>tools</title>
+        <link>https://yyyIce.github.io/zh/series/tools/</link>
+        <pubDate>Tue, 05 Jan 2021 12:00:06 +0900</pubDate>
+        <author>yyyIce727@163.com (咸鱼冰)</author>
+        
+        <guid>https://yyyIce.github.io/zh/series/tools/</guid>
+        <description></description>
+        
+        <dc:creator>咸鱼冰</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>languages</title>
+        <link>https://yyyIce.github.io/zh/series/languages/</link>
+        <pubDate>Wed, 25 Nov 2020 12:00:06 +0900</pubDate>
+        <author>yyyIce727@163.com (咸鱼冰)</author>
+        
+        <guid>https://yyyIce.github.io/zh/series/languages/</guid>
+        <description></description>
+        
+        <dc:creator>咸鱼冰</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

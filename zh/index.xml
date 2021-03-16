@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>咸鱼冰 | Design &amp; Project</title>
+    <link>https://yyyIce.github.io/zh/</link>
+    <description>Recent content on 咸鱼冰 | Design &amp; Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>yyyIce727@163.com (咸鱼冰)</managingEditor>
+    <webMaster>yyyIce727@163.com (咸鱼冰)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 16 Mar 2021 12:00:06 +0900</lastBuildDate>
+    
+        <atom:link href="https://yyyIce.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+
+      
+      <item>
+        <title>研究方法：机器学习</title>
+        <link>https://yyyIce.github.io/zh/posts/%E7%A0%94%E7%A9%B6%E6%96%B9%E6%B3%95%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</link>
+        <pubDate>Tue, 16 Mar 2021 12:00:06 +0900</pubDate>
+        <author>yyyIce727@163.com (咸鱼冰)</author>
+        <atom:modified>Tue, 16 Mar 2021 12:00:06 +0900</atom:modified>
+        <guid>https://yyyIce.github.io/zh/posts/%E7%A0%94%E7%A9%B6%E6%96%B9%E6%B3%95%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</guid>
+        <description>机器学习入门 1 基本概念 注：仅作简要介绍，帮助理解。需要阅读或学习过《机器学习》、《线性代数》课程（可以没学明白，但得上过课）。 1.1 线性代数 向量</description>
+        
+        <dc:creator>咸鱼冰</dc:creator>
+        <media:content url="https://yyyIce.github.io/images/feature3/method.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>分布式</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>method</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>论文阅读：卸载实时DDoS攻击检测到可编程数据平面</title>
+        <link>https://yyyIce.github.io/zh/posts/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E5%8D%B8%E8%BD%BD%E5%AE%9E%E6%97%B6ddos%E6%94%BB%E5%87%BB%E6%A3%80%E6%B5%8B%E5%88%B0%E5%8F%AF%E7%BC%96%E7%A8%8B%E6%95%B0%E6%8D%AE%E5%B9%B3%E9%9D%A2/</link>
+        <pubDate>Mon, 01 Feb 2021 12:00:06 +0900</pubDate>
+        <author>yyyIce727@163.com (咸鱼冰)</author>
+        <atom:modified>Mon, 01 Feb 2021 12:00:06 +0900</atom:modified>
+        <guid>https://yyyIce.github.io/zh/posts/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E5%8D%B8%E8%BD%BD%E5%AE%9E%E6%97%B6ddos%E6%94%BB%E5%87%BB%E6%A3%80%E6%B5%8B%E5%88%B0%E5%8F%AF%E7%BC%96%E7%A8%8B%E6%95%B0%E6%8D%AE%E5%B9%B3%E9%9D%A2/</guid>
+        <description>论文名称：Offloading Real-time DDoS Attack Detection to Programmable Data Planes 会议信息：2020 IFIP Networking Conference (Networking) 成果：在受到DDoS攻击时，源IP地址和目标IP地址的分布往往会偏离</description>
+        
+        <dc:creator>咸鱼冰</dc:creator>
+        <media:content url="https://yyyIce.github.io/images/feature3/paper.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>P4</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>paper</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>论文阅读：基于P4的机器学习辅助DDoS攻击检测</title>
+        <link>https://yyyIce.github.io/zh/posts/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E5%9F%BA%E4%BA%8Ep4%E7%9A%84%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%BE%85%E5%8A%A9ddos%E6%94%BB%E5%87%BB%E6%A3%80%E6%B5%8B/</link>
+        <pubDate>Wed, 20 Jan 2021 12:00:06 +0900</pubDate>
+        <author>yyyIce727@163.com (咸鱼冰)</author>
+        <atom:modified>Wed, 20 Jan 2021 12:00:06 +0900</atom:modified>
+        <guid>https://yyyIce.github.io/zh/posts/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E5%9F%BA%E4%BA%8Ep4%E7%9A%84%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%BE%85%E5%8A%A9ddos%E6%94%BB%E5%87%BB%E6%A3%80%E6%B5%8B/</guid>
+        <description>论文名称：Machine-learning-assisted DDoS attack detection with P4 language 会议信息：2020 IEEE International Conference on Communications (ICC). IEEE, 2020: 1-6. 成果：开发了用于SDN网络的机器</description>
+        
+        <dc:creator>咸鱼冰</dc:creator>
+        <media:content url="https://yyyIce.github.io/images/feature3/paper.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>P4</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>paper</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>论文阅读：基于P4的安全重复地址检测</title>
+        <link>https://yyyIce.github.io/zh/posts/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E5%9F%BA%E4%BA%8Ep4%E7%9A%84%E5%AE%89%E5%85%A8%E9%87%8D%E5%A4%8D%E5%9C%B0%E5%9D%80%E6%A3%80%E6%B5%8B/</link>
+        <pubDate>Fri, 15 Jan 2021 12:00:06 +0900</pubDate>
+        <author>yyyIce727@163.com (咸鱼冰)</author>
+        <atom:modified>Fri, 15 Jan 2021 12:00:06 +0900</atom:modified>
+        <guid>https://yyyIce.github.io/zh/posts/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E5%9F%BA%E4%BA%8Ep4%E7%9A%84%E5%AE%89%E5%85%A8%E9%87%8D%E5%A4%8D%E5%9C%B0%E5%9D%80%E6%A3%80%E6%B5%8B/</guid>
+        <description>论文名称：P4DAD: Securing Duplicate Address Detection Using P4 会议信息：2020 IEEE International Conference on Communications (ICC). IEEE, 2020: 1-7. 成果：提出了P4DAD，是一种轻量级，可部署，健壮，安全的DAD机制。</description>
+        
+        <dc:creator>咸鱼冰</dc:creator>
+        <media:content url="https://yyyIce.github.io/images/feature3/paper.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>P4</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>paper</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>论文阅读：基于P4的ECN滥用防御</title>
+        <link>https://yyyIce.github.io/zh/posts/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E5%9F%BA%E4%BA%8Ep4%E7%9A%84ecn%E5%8D%8F%E8%AE%AE%E6%BB%A5%E7%94%A8%E9%98%B2%E5%BE%A1/</link>
+        <pubDate>Thu, 07 Jan 2021 12:00:06 +0900</pubDate>
+        <author>yyyIce727@163.com (咸鱼冰)</author>
+        <atom:modified>Thu, 07 Jan 2021 12:00:06 +0900</atom:modified>
+        <guid>https://yyyIce.github.io/zh/posts/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E5%9F%BA%E4%BA%8Ep4%E7%9A%84ecn%E5%8D%8F%E8%AE%AE%E6%BB%A5%E7%94%A8%E9%98%B2%E5%BE%A1/</guid>
+        <description>论文名称：Defeating Protocol Abuse with P4: Application to Explicit Congestion Notification 会议信息：2020 IFIP Networking Conference (Networking) 成果：提出进行网络验证的EFSM通用抽象，实现安全监视功能，以ECN</description>
+        
+        <dc:creator>咸鱼冰</dc:creator>
+        <media:content url="https://yyyIce.github.io/images/feature3/paper.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>P4</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>paper</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>工具使用：S3</title>
+        <link>https://yyyIce.github.io/zh/posts/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8s3/</link>
+        <pubDate>Tue, 05 Jan 2021 12:00:06 +0900</pubDate>
+        <author>yyyIce727@163.com (咸鱼冰)</author>
+        <atom:modified>Tue, 05 Jan 2021 12:00:06 +0900</atom:modified>
+        <guid>https://yyyIce.github.io/zh/posts/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8s3/</guid>
+        <description>1 概述 S3: Simple Storage Service 是对象存储服务，具体来说是可以通过一个URL（如http://endpoint_url/&amp;lt;bucket_name&amp;gt;</description>
+        
+        <dc:creator>咸鱼冰</dc:creator>
+        <media:content url="https://yyyIce.github.io/images/feature3/chilun.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>分布式</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>tools</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>论文阅读：基于P4的SIP DDoS攻击防御</title>
+        <link>https://yyyIce.github.io/zh/posts/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E5%9F%BA%E4%BA%8Ep4%E7%9A%84sip-ddos%E6%94%BB%E5%87%BB%E9%98%B2%E5%BE%A1/</link>
+        <pubDate>Tue, 05 Jan 2021 12:00:06 +0900</pubDate>
+        <author>yyyIce727@163.com (咸鱼冰)</author>
+        <atom:modified>Tue, 05 Jan 2021 12:00:06 +0900</atom:modified>
+        <guid>https://yyyIce.github.io/zh/posts/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E5%9F%BA%E4%BA%8Ep4%E7%9A%84sip-ddos%E6%94%BB%E5%87%BB%E9%98%B2%E5%BE%A1/</guid>
+        <description>论文名称：Distributed SIP DDoS Defense with P4 会议信息：2019 IEEE Wireless Communications and Networking Conference (WCNC) 成果：利用可编程交换机缓解SIP INVITE DDoS攻击 贡献：通过对以太网交</description>
+        
+        <dc:creator>咸鱼冰</dc:creator>
+        <media:content url="https://yyyIce.github.io/images/feature3/paper.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>P4</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>paper</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>工具使用：Kafka</title>
+        <link>https://yyyIce.github.io/zh/posts/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8kafka/</link>
+        <pubDate>Mon, 04 Jan 2021 12:00:06 +0900</pubDate>
+        <author>yyyIce727@163.com (咸鱼冰)</author>
+        <atom:modified>Mon, 04 Jan 2021 12:00:06 +0900</atom:modified>
+        <guid>https://yyyIce.github.io/zh/posts/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8kafka/</guid>
+        <description>1 概述 Kafka是消息系统。 消息系统：在应用程序之间发送消息 应用场景：日志收集系统和消息系统，采用发布-订阅模式 常用的Message Queu</description>
+        
+        <dc:creator>咸鱼冰</dc:creator>
+        <media:content url="https://yyyIce.github.io/images/feature3/kafka.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>分布式</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>tools</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>NetCache ：基于网络内缓存快速均衡键值存储负载</title>
+        <link>https://yyyIce.github.io/zh/posts/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BBnetcache/</link>
+        <pubDate>Wed, 30 Dec 2020 12:00:06 +0900</pubDate>
+        <author>yyyIce727@163.com (咸鱼冰)</author>
+        <atom:modified>Wed, 30 Dec 2020 12:00:06 +0900</atom:modified>
+        <guid>https://yyyIce.github.io/zh/posts/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BBnetcache/</guid>
+        <description>论文名称：NetCache: Balancing Key-Value Stores with Fast In-Network Caching 会议信息：SOSP ’17, October 28, 2017, Shanghai, China 成果：利用ToR可编程交换机做缓存层，实现机架规模的数十亿吞吐</description>
+        
+        <dc:creator>咸鱼冰</dc:creator>
+        <media:content url="https://yyyIce.github.io/images/feature3/paper.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>P4</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>paper</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>工具使用：mininet</title>
+        <link>https://yyyIce.github.io/zh/posts/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8mininet/</link>
+        <pubDate>Wed, 09 Dec 2020 12:00:06 +0900</pubDate>
+        <author>yyyIce727@163.com (咸鱼冰)</author>
+        <atom:modified>Wed, 09 Dec 2020 12:00:06 +0900</atom:modified>
+        <guid>https://yyyIce.github.io/zh/posts/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8mininet/</guid>
+        <description>Mininet是一个网络模拟器，可以创建虚拟主机，交换机，控制器和连接的网络。 Mininet主机运行标准的Linux网络软件，支持OpenF</description>
+        
+        <dc:creator>咸鱼冰</dc:creator>
+        <media:content url="https://yyyIce.github.io/images/feature3/chilun.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>sdn</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>tools</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>工具使用：ryu</title>
+        <link>https://yyyIce.github.io/zh/posts/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8ryu%E6%8E%A7%E5%88%B6%E5%99%A8/</link>
+        <pubDate>Wed, 09 Dec 2020 12:00:06 +0900</pubDate>
+        <author>yyyIce727@163.com (咸鱼冰)</author>
+        <atom:modified>Wed, 09 Dec 2020 12:00:06 +0900</atom:modified>
+        <guid>https://yyyIce.github.io/zh/posts/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8ryu%E6%8E%A7%E5%88%B6%E5%99%A8/</guid>
+        <description>RYU控制器是简单易上手的SDN控制器，易于使用和开发，由Python实现。 1.安装 1 2 3 4 git clone https://github.com/osrg/ryu.git cd ryu python3.7 -m pip install ryu ryu --version 2.使用 把编写好的控制器</description>
+        
+        <dc:creator>咸鱼冰</dc:creator>
+        <media:content url="https://yyyIce.github.io/images/feature3/chilun.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>sdn</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>tools</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Python：asyncio协程理解及用法</title>
+        <link>https://yyyIce.github.io/zh/posts/pythonasyncio%E5%8D%8F%E7%A8%8B%E7%90%86%E8%A7%A3%E5%8F%8A%E7%94%A8%E6%B3%95/</link>
+        <pubDate>Wed, 25 Nov 2020 12:00:06 +0900</pubDate>
+        <author>yyyIce727@163.com (咸鱼冰)</author>
+        <atom:modified>Wed, 25 Nov 2020 12:00:06 +0900</atom:modified>
+        <guid>https://yyyIce.github.io/zh/posts/pythonasyncio%E5%8D%8F%E7%A8%8B%E7%90%86%E8%A7%A3%E5%8F%8A%E7%94%A8%E6%B3%95/</guid>
+        <description>1 协程 协程是并发的一种实现方式。和多线程的抢占式不同，它是当前运行的协程A在需要等待第三方结果时，主动让出控制权，然后由其它空闲的就绪协程B</description>
+        
+        <dc:creator>咸鱼冰</dc:creator>
+        <media:content url="https://yyyIce.github.io/images/feature3/python.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>python</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>languages</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>网络空间测绘概述</title>
+        <link>https://yyyIce.github.io/zh/posts/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E7%BD%91%E7%BB%9C%E7%A9%BA%E9%97%B4%E6%B5%8B%E7%BB%98/</link>
+        <pubDate>Wed, 25 Nov 2020 12:00:06 +0900</pubDate>
+        <author>yyyIce727@163.com (咸鱼冰)</author>
+        <atom:modified>Wed, 25 Nov 2020 12:00:06 +0900</atom:modified>
+        <guid>https://yyyIce.github.io/zh/posts/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E7%BD%91%E7%BB%9C%E7%A9%BA%E9%97%B4%E6%B5%8B%E7%BB%98/</guid>
+        <description>网络空间测绘乍一听很像新闻联播里的句子，可以在这篇综述中得到能够让人理解的解释。 阅读小贴士：本文内容主要摘抄于参考文献[1]，作为网络空间测</description>
+        
+        <dc:creator>咸鱼冰</dc:creator>
+        <media:content url="https://yyyIce.github.io/images/feature3/paper.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>网络测绘</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>paper</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Python：yield 用法和理解</title>
+        <link>https://yyyIce.github.io/zh/posts/pythonyield%E7%94%A8%E6%B3%95%E5%92%8C%E7%90%86%E8%A7%A3/</link>
+        <pubDate>Tue, 24 Nov 2020 12:00:06 +0900</pubDate>
+        <author>yyyIce727@163.com (咸鱼冰)</author>
+        <atom:modified>Tue, 24 Nov 2020 12:00:06 +0900</atom:modified>
+        <guid>https://yyyIce.github.io/zh/posts/pythonyield%E7%94%A8%E6%B3%95%E5%92%8C%E7%90%86%E8%A7%A3/</guid>
+        <description>Python文档：https://realpython.com/async-io-python/ 可以先参看他人博客，大概了解以后看官方文档进</description>
+        
+        <dc:creator>咸鱼冰</dc:creator>
+        <media:content url="https://yyyIce.github.io/images/feature3/python.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>python</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>languages</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Python：多线程编程</title>
+        <link>https://yyyIce.github.io/zh/posts/python%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%BC%96%E7%A8%8B/</link>
+        <pubDate>Tue, 24 Nov 2020 12:00:06 +0900</pubDate>
+        <author>yyyIce727@163.com (咸鱼冰)</author>
+        <atom:modified>Tue, 24 Nov 2020 12:00:06 +0900</atom:modified>
+        <guid>https://yyyIce.github.io/zh/posts/python%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%BC%96%E7%A8%8B/</guid>
+        <description>Python文档：https://docs.python.org/zh-cn/3/library/threading.html 可以先参看他人</description>
+        
+        <dc:creator>咸鱼冰</dc:creator>
+        <media:content url="https://yyyIce.github.io/images/feature3/python.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>python</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>languages</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Python：多进程&#43;协程编程示例</title>
+        <link>https://yyyIce.github.io/zh/posts/python%E5%A4%9A%E8%BF%9B%E7%A8%8B&#43;%E5%8D%8F%E7%A8%8B%E7%BC%96%E7%A8%8B%E7%A4%BA%E4%BE%8B/</link>
+        <pubDate>Tue, 24 Nov 2020 12:00:06 +0900</pubDate>
+        <author>yyyIce727@163.com (咸鱼冰)</author>
+        <atom:modified>Tue, 24 Nov 2020 12:00:06 +0900</atom:modified>
+        <guid>https://yyyIce.github.io/zh/posts/python%E5%A4%9A%E8%BF%9B%E7%A8%8B&#43;%E5%8D%8F%E7%A8%8B%E7%BC%96%E7%A8%8B%E7%A4%BA%E4%BE%8B/</guid>
+        <description>本文是多进程和协程的综合使用示例，至少2个核才能充分达到速度要求，实际工程中这么用好不好暂时不清楚。 这里仅给出简要代码，可以自行添加日志、配</description>
+        
+        <dc:creator>咸鱼冰</dc:creator>
+        <media:content url="https://yyyIce.github.io/images/feature3/python.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>python</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>languages</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Python：多进程编程</title>
+        <link>https://yyyIce.github.io/zh/posts/python%E5%A4%9A%E8%BF%9B%E7%A8%8B%E7%BC%96%E7%A8%8B/</link>
+        <pubDate>Tue, 24 Nov 2020 12:00:06 +0900</pubDate>
+        <author>yyyIce727@163.com (咸鱼冰)</author>
+        <atom:modified>Tue, 24 Nov 2020 12:00:06 +0900</atom:modified>
+        <guid>https://yyyIce.github.io/zh/posts/python%E5%A4%9A%E8%BF%9B%E7%A8%8B%E7%BC%96%E7%A8%8B/</guid>
+        <description>Python文档：https://docs.python.org/zh-cn/3/library/multiprocessing.html 可</description>
+        
+        <dc:creator>咸鱼冰</dc:creator>
+        <media:content url="https://yyyIce.github.io/images/feature3/python.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>python</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>languages</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Python：完整地了解异步IO（译）</title>
+        <link>https://yyyIce.github.io/zh/posts/pythonasync-io-in-python-a-complete-walkthrough%E8%AF%91/</link>
+        <pubDate>Mon, 23 Nov 2020 12:00:06 +0900</pubDate>
+        <author>yyyIce727@163.com (咸鱼冰)</author>
+        <atom:modified>Mon, 23 Nov 2020 12:00:06 +0900</atom:modified>
+        <guid>https://yyyIce.github.io/zh/posts/pythonasync-io-in-python-a-complete-walkthrough%E8%AF%91/</guid>
+        <description>原文：https://realpython.com/async-io-python/ 这个看原英文挺容易看懂的，在看的同时顺便翻译出来供英语属</description>
+        
+        <dc:creator>咸鱼冰</dc:creator>
+        <media:content url="https://yyyIce.github.io/images/feature3/python.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>python</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>languages</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>C语言：指针</title>
+        <link>https://yyyIce.github.io/zh/posts/c%E8%AF%AD%E8%A8%80%E6%8C%87%E9%92%88/</link>
+        <pubDate>Sat, 26 Sep 2020 12:00:06 +0900</pubDate>
+        <author>yyyIce727@163.com (咸鱼冰)</author>
+        <atom:modified>Sat, 26 Sep 2020 12:00:06 +0900</atom:modified>
+        <guid>https://yyyIce.github.io/zh/posts/c%E8%AF%AD%E8%A8%80%E6%8C%87%E9%92%88/</guid>
+        <description>主要是为了回调函数的编写和阅读，顺带了一点指针的基础内容。 0.理解前提 指针的定义和运算不再赘述，需要理解指针和地址的关系。 在编写代码的过程中</description>
+        
+        <dc:creator>咸鱼冰</dc:creator>
+        <media:content url="https://yyyIce.github.io/images/feature3/C.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>c</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>languages</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>C语言：结构体的使用</title>
+        <link>https://yyyIce.github.io/zh/posts/c%E8%AF%AD%E8%A8%80%E7%BB%93%E6%9E%84%E4%BD%93/</link>
+        <pubDate>Sat, 26 Sep 2020 12:00:06 +0900</pubDate>
+        <author>yyyIce727@163.com (咸鱼冰)</author>
+        <atom:modified>Sat, 26 Sep 2020 12:00:06 +0900</atom:modified>
+        <guid>https://yyyIce.github.io/zh/posts/c%E8%AF%AD%E8%A8%80%E7%BB%93%E6%9E%84%E4%BD%93/</guid>
+        <description>注意题目：C语言，不是C+。 本文适合对C语言有一定理解，只存在部分概念模糊的人群阅读，不适合初学者，参考资料列在文章最后。 本文的目标是彻底理</description>
+        
+        <dc:creator>咸鱼冰</dc:creator>
+        <media:content url="https://yyyIce.github.io/images/feature3/C.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>c</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>languages</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>C语言：Typedef</title>
+        <link>https://yyyIce.github.io/zh/posts/c%E8%AF%AD%E8%A8%80typedef/</link>
+        <pubDate>Thu, 24 Sep 2020 12:00:06 +0900</pubDate>
+        <author>yyyIce727@163.com (咸鱼冰)</author>
+        <atom:modified>Thu, 24 Sep 2020 12:00:06 +0900</atom:modified>
+        <guid>https://yyyIce.github.io/zh/posts/c%E8%AF%AD%E8%A8%80typedef/</guid>
+        <description>1.快速了解 typedef用来为数据类型起别名，这样在阅读时能够更清晰地理解程序，同时也可以让变量名变短。 例如下面的代码中，struct st</description>
+        
+        <dc:creator>咸鱼冰</dc:creator>
+        <media:content url="https://yyyIce.github.io/images/feature3/C.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>c</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>languages</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>工具使用：wireshark</title>
+        <link>https://yyyIce.github.io/zh/posts/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8wireshark/</link>
+        <pubDate>Thu, 24 Sep 2020 12:00:06 +0900</pubDate>
+        <author>yyyIce727@163.com (咸鱼冰)</author>
+        <atom:modified>Thu, 24 Sep 2020 12:00:06 +0900</atom:modified>
+        <guid>https://yyyIce.github.io/zh/posts/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8wireshark/</guid>
+        <description>是一款强大的数据包分析软件 官网地址：https://www.wireshark.org/ 1.安装 （1）进入官网 图1 官方界面: （2）点击“Do</description>
+        
+        <dc:creator>咸鱼冰</dc:creator>
+        <media:content url="https://yyyIce.github.io/images/feature3/wireshark.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>basic</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>tools</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>SilkRoad ：使用ASIC交换机作为高速低成本的有状态四层负载均衡器</title>
+        <link>https://yyyIce.github.io/zh/posts/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BBsilkroad/</link>
+        <pubDate>Wed, 29 Apr 2020 12:00:06 +0900</pubDate>
+        <author>yyyIce727@163.com (咸鱼冰)</author>
+        <atom:modified>Wed, 29 Apr 2020 12:00:06 +0900</atom:modified>
+        <guid>https://yyyIce.github.io/zh/posts/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BBsilkroad/</guid>
+        <description>论文名称：SilkRoad: Making Stateful Layer-4 Load Balancing Fast and Cheap Using Switching ASICs 会议信息：SIGCOMM ’17, August 21–25, 2017, Los Angeles, CA, USA 成果：在switch.p4的基础上</description>
+        
+        <dc:creator>咸鱼冰</dc:creator>
+        <media:content url="https://yyyIce.github.io/images/feature3/paper.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>P4</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>paper</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
