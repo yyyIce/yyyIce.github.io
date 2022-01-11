@@ -14,13 +14,103 @@
     <managingEditor>yyyIce727@163.com (咸鱼冰)</managingEditor>
     <webMaster>yyyIce727@163.com (咸鱼冰)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Tue, 16 Mar 2021 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 18 Oct 2021 12:00:06 +0900</lastBuildDate>
     
         <atom:link href="https://yyyIce.github.io/zh/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>yaml</title>
+        <link>https://yyyIce.github.io/zh/tags/yaml/</link>
+        <pubDate>Mon, 18 Oct 2021 12:00:06 +0900</pubDate>
+        <author>yyyIce727@163.com (咸鱼冰)</author>
+        
+        <guid>https://yyyIce.github.io/zh/tags/yaml/</guid>
+        <description></description>
+        
+        <dc:creator>咸鱼冰</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>机器学习</title>
+        <link>https://yyyIce.github.io/zh/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</link>
+        <pubDate>Sun, 12 Sep 2021 12:00:06 +0900</pubDate>
+        <author>yyyIce727@163.com (咸鱼冰)</author>
+        
+        <guid>https://yyyIce.github.io/zh/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</guid>
+        <description></description>
+        
+        <dc:creator>咸鱼冰</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>虚拟化</title>
+        <link>https://yyyIce.github.io/zh/tags/%E8%99%9A%E6%8B%9F%E5%8C%96/</link>
+        <pubDate>Wed, 08 Sep 2021 12:00:06 +0900</pubDate>
+        <author>yyyIce727@163.com (咸鱼冰)</author>
+        
+        <guid>https://yyyIce.github.io/zh/tags/%E8%99%9A%E6%8B%9F%E5%8C%96/</guid>
+        <description></description>
+        
+        <dc:creator>咸鱼冰</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>basic</title>
+        <link>https://yyyIce.github.io/zh/tags/basic/</link>
+        <pubDate>Thu, 02 Sep 2021 12:00:06 +0900</pubDate>
+        <author>yyyIce727@163.com (咸鱼冰)</author>
+        
+        <guid>https://yyyIce.github.io/zh/tags/basic/</guid>
+        <description></description>
+        
+        <dc:creator>咸鱼冰</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>c</title>
+        <link>https://yyyIce.github.io/zh/tags/c/</link>
+        <pubDate>Thu, 19 Aug 2021 12:00:06 +0900</pubDate>
+        <author>yyyIce727@163.com (咸鱼冰)</author>
+        
+        <guid>https://yyyIce.github.io/zh/tags/c/</guid>
+        <description></description>
+        
+        <dc:creator>咸鱼冰</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>分布式</title>
@@ -101,42 +191,6 @@
         <author>yyyIce727@163.com (咸鱼冰)</author>
         
         <guid>https://yyyIce.github.io/zh/tags/%E7%BD%91%E7%BB%9C%E6%B5%8B%E7%BB%98/</guid>
-        <description></description>
-        
-        <dc:creator>咸鱼冰</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>c</title>
-        <link>https://yyyIce.github.io/zh/tags/c/</link>
-        <pubDate>Sat, 26 Sep 2020 12:00:06 +0900</pubDate>
-        <author>yyyIce727@163.com (咸鱼冰)</author>
-        
-        <guid>https://yyyIce.github.io/zh/tags/c/</guid>
-        <description></description>
-        
-        <dc:creator>咸鱼冰</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>basic</title>
-        <link>https://yyyIce.github.io/zh/tags/basic/</link>
-        <pubDate>Thu, 24 Sep 2020 12:00:06 +0900</pubDate>
-        <author>yyyIce727@163.com (咸鱼冰)</author>
-        
-        <guid>https://yyyIce.github.io/zh/tags/basic/</guid>
         <description></description>
         
         <dc:creator>咸鱼冰</dc:creator>

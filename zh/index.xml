@@ -14,7 +14,7 @@
     <managingEditor>yyyIce727@163.com (咸鱼冰)</managingEditor>
     <webMaster>yyyIce727@163.com (咸鱼冰)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Tue, 16 Mar 2021 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 18 Oct 2021 12:00:06 +0900</lastBuildDate>
     
         <atom:link href="https://yyyIce.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
     
@@ -42,6 +42,156 @@
         
       
 
+      
+      <item>
+        <title>YAML：yaml基本使用</title>
+        <link>https://yyyIce.github.io/zh/posts/yamlyaml%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8/</link>
+        <pubDate>Mon, 18 Oct 2021 12:00:06 +0900</pubDate>
+        <author>yyyIce727@163.com (咸鱼冰)</author>
+        <atom:modified>Mon, 18 Oct 2021 12:00:06 +0900</atom:modified>
+        <guid>https://yyyIce.github.io/zh/posts/yamlyaml%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8/</guid>
+        <description>Yaml文档：https://yaml.org/ 可以先参看他人博客，大概了解以后看官方文档进行使用，不建议直接看文档进行学习。 1 Yaml简介</description>
+        
+        <dc:creator>咸鱼冰</dc:creator>
+        <media:content url="https://yyyIce.github.io/images/feature3/yaml.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>yaml</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>languages</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Python：Pandas和Numpy对数据集的基本操作</title>
+        <link>https://yyyIce.github.io/zh/posts/pythonpandas%E5%92%8Cnumpy%E5%AF%B9%E6%95%B0%E6%8D%AE%E9%9B%86%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/</link>
+        <pubDate>Sun, 12 Sep 2021 12:00:06 +0900</pubDate>
+        <author>yyyIce727@163.com (咸鱼冰)</author>
+        <atom:modified>Sun, 12 Sep 2021 12:00:06 +0900</atom:modified>
+        <guid>https://yyyIce.github.io/zh/posts/pythonpandas%E5%92%8Cnumpy%E5%AF%B9%E6%95%B0%E6%8D%AE%E9%9B%86%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C/</guid>
+        <description>注：本节适合对常用数据集操作一知半解但混淆不清的人群阅读，不适合一条常用命令都不清楚的人群阅读。参数、返回值、使用示例还是官方文档写得清楚，</description>
+        
+        <dc:creator>咸鱼冰</dc:creator>
+        <media:content url="https://yyyIce.github.io/images/feature3/python.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>机器学习</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>Python</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>工具使用：Docker</title>
+        <link>https://yyyIce.github.io/zh/posts/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8docker/</link>
+        <pubDate>Wed, 08 Sep 2021 12:00:06 +0900</pubDate>
+        <author>yyyIce727@163.com (咸鱼冰)</author>
+        <atom:modified>Wed, 08 Sep 2021 12:00:06 +0900</atom:modified>
+        <guid>https://yyyIce.github.io/zh/posts/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8docker/</guid>
+        <description>前言：本文绝大部分内容摘录自《Docker——从入门到实践》，为加深我的印象整理而成（我的笔记升级了，电子笔记），在最后设置了两个docke</description>
+        
+        <dc:creator>咸鱼冰</dc:creator>
+        <media:content url="https://yyyIce.github.io/images/feature3/chilun.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>虚拟化</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>tools</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>工具使用：Scapy</title>
+        <link>https://yyyIce.github.io/zh/posts/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8scapy/</link>
+        <pubDate>Thu, 02 Sep 2021 12:00:06 +0900</pubDate>
+        <author>yyyIce727@163.com (咸鱼冰)</author>
+        <atom:modified>Thu, 02 Sep 2021 12:00:06 +0900</atom:modified>
+        <guid>https://yyyIce.github.io/zh/posts/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8scapy/</guid>
+        <description>Scapy的基本使用方法 1 概述 文档：https://scapy.readthedocs.io/en/latest/introduction.</description>
+        
+        <dc:creator>咸鱼冰</dc:creator>
+        <media:content url="https://yyyIce.github.io/images/feature3/chilun.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>basic</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>tools</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>工具使用：GoogleTest</title>
+        <link>https://yyyIce.github.io/zh/posts/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8googletest/</link>
+        <pubDate>Thu, 19 Aug 2021 12:00:06 +0900</pubDate>
+        <author>yyyIce727@163.com (咸鱼冰)</author>
+        <atom:modified>Thu, 19 Aug 2021 12:00:06 +0900</atom:modified>
+        <guid>https://yyyIce.github.io/zh/posts/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8googletest/</guid>
+        <description>Google Colab：https://colab.research.google.com/ 1.简介 GoogleTest遵循Abseil生态哲学，Ab</description>
+        
+        <dc:creator>咸鱼冰</dc:creator>
+        <media:content url="https://yyyIce.github.io/images/feature3/chilun.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>C</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>tools</category>
+            
+          
+        
+      </item>
       
       <item>
         <title>研究方法：机器学习</title>
@@ -321,36 +471,6 @@
         <atom:modified>Wed, 09 Dec 2020 12:00:06 +0900</atom:modified>
         <guid>https://yyyIce.github.io/zh/posts/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8mininet/</guid>
         <description>Mininet是一个网络模拟器，可以创建虚拟主机，交换机，控制器和连接的网络。 Mininet主机运行标准的Linux网络软件，支持OpenF</description>
-        
-        <dc:creator>咸鱼冰</dc:creator>
-        <media:content url="https://yyyIce.github.io/images/feature3/chilun.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>sdn</category>
-            
-          
-        
-        
-        
-          
-            
-              <category>tools</category>
-            
-          
-        
-      </item>
-      
-      <item>
-        <title>工具使用：ryu</title>
-        <link>https://yyyIce.github.io/zh/posts/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8ryu%E6%8E%A7%E5%88%B6%E5%99%A8/</link>
-        <pubDate>Wed, 09 Dec 2020 12:00:06 +0900</pubDate>
-        <author>yyyIce727@163.com (咸鱼冰)</author>
-        <atom:modified>Wed, 09 Dec 2020 12:00:06 +0900</atom:modified>
-        <guid>https://yyyIce.github.io/zh/posts/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8ryu%E6%8E%A7%E5%88%B6%E5%99%A8/</guid>
-        <description>RYU控制器是简单易上手的SDN控制器，易于使用和开发，由Python实现。 1.安装 1 2 3 4 git clone https://github.com/osrg/ryu.git cd ryu python3.7 -m pip install ryu ryu --version 2.使用 把编写好的控制器</description>
         
         <dc:creator>咸鱼冰</dc:creator>
         <media:content url="https://yyyIce.github.io/images/feature3/chilun.png" medium="image"><media:title type="html">featured image</media:title></media:content>
@@ -680,7 +800,7 @@
         <author>yyyIce727@163.com (咸鱼冰)</author>
         <atom:modified>Thu, 24 Sep 2020 12:00:06 +0900</atom:modified>
         <guid>https://yyyIce.github.io/zh/posts/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8wireshark/</guid>
-        <description>是一款强大的数据包分析软件 官网地址：https://www.wireshark.org/ 1.安装 （1）进入官网 图1 官方界面: （2）点击“Do</description>
+        <description>Wireshark是一款强大的数据包分析软件。 官网地址：https://www.wireshark.org/ 1.安装 （1）进入官网 图1 官方界</description>
         
         <dc:creator>咸鱼冰</dc:creator>
         <media:content url="https://yyyIce.github.io/images/feature3/wireshark.png" medium="image"><media:title type="html">featured image</media:title></media:content>

@@ -14,7 +14,7 @@
     <managingEditor>yyyIce727@163.com (咸鱼冰)</managingEditor>
     <webMaster>yyyIce727@163.com (咸鱼冰)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 24 Sep 2020 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 02 Sep 2021 12:00:06 +0900</lastBuildDate>
     
         <atom:link href="https://yyyIce.github.io/zh/tags/basic/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,13 +23,43 @@
 
       
       <item>
+        <title>工具使用：Scapy</title>
+        <link>https://yyyIce.github.io/zh/posts/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8scapy/</link>
+        <pubDate>Thu, 02 Sep 2021 12:00:06 +0900</pubDate>
+        <author>yyyIce727@163.com (咸鱼冰)</author>
+        <atom:modified>Thu, 02 Sep 2021 12:00:06 +0900</atom:modified>
+        <guid>https://yyyIce.github.io/zh/posts/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8scapy/</guid>
+        <description>Scapy的基本使用方法 1 概述 文档：https://scapy.readthedocs.io/en/latest/introduction.</description>
+        
+        <dc:creator>咸鱼冰</dc:creator>
+        <media:content url="https://yyyIce.github.io/images/feature3/chilun.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>basic</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>tools</category>
+            
+          
+        
+      </item>
+      
+      <item>
         <title>工具使用：wireshark</title>
         <link>https://yyyIce.github.io/zh/posts/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8wireshark/</link>
         <pubDate>Thu, 24 Sep 2020 12:00:06 +0900</pubDate>
         <author>yyyIce727@163.com (咸鱼冰)</author>
         <atom:modified>Thu, 24 Sep 2020 12:00:06 +0900</atom:modified>
         <guid>https://yyyIce.github.io/zh/posts/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8wireshark/</guid>
-        <description>是一款强大的数据包分析软件 官网地址：https://www.wireshark.org/ 1.安装 （1）进入官网 图1 官方界面: （2）点击“Do</description>
+        <description>Wireshark是一款强大的数据包分析软件。 官网地址：https://www.wireshark.org/ 1.安装 （1）进入官网 图1 官方界</description>
         
         <dc:creator>咸鱼冰</dc:creator>
         <media:content url="https://yyyIce.github.io/images/feature3/wireshark.png" medium="image"><media:title type="html">featured image</media:title></media:content>

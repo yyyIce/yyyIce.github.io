@@ -52,36 +52,6 @@
         
       </item>
       
-      <item>
-        <title>工具使用：ryu</title>
-        <link>https://yyyIce.github.io/zh/posts/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8ryu%E6%8E%A7%E5%88%B6%E5%99%A8/</link>
-        <pubDate>Wed, 09 Dec 2020 12:00:06 +0900</pubDate>
-        <author>yyyIce727@163.com (咸鱼冰)</author>
-        <atom:modified>Wed, 09 Dec 2020 12:00:06 +0900</atom:modified>
-        <guid>https://yyyIce.github.io/zh/posts/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8ryu%E6%8E%A7%E5%88%B6%E5%99%A8/</guid>
-        <description>RYU控制器是简单易上手的SDN控制器，易于使用和开发，由Python实现。 1.安装 1 2 3 4 git clone https://github.com/osrg/ryu.git cd ryu python3.7 -m pip install ryu ryu --version 2.使用 把编写好的控制器</description>
-        
-        <dc:creator>咸鱼冰</dc:creator>
-        <media:content url="https://yyyIce.github.io/images/feature3/chilun.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>sdn</category>
-            
-          
-        
-        
-        
-          
-            
-              <category>tools</category>
-            
-          
-        
-      </item>
-      
 
     
   </channel>

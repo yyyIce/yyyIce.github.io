@@ -14,13 +14,43 @@
     <managingEditor>yyyIce727@163.com (咸鱼冰)</managingEditor>
     <webMaster>yyyIce727@163.com (咸鱼冰)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 26 Sep 2020 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 19 Aug 2021 12:00:06 +0900</lastBuildDate>
     
         <atom:link href="https://yyyIce.github.io/zh/tags/c/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>工具使用：GoogleTest</title>
+        <link>https://yyyIce.github.io/zh/posts/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8googletest/</link>
+        <pubDate>Thu, 19 Aug 2021 12:00:06 +0900</pubDate>
+        <author>yyyIce727@163.com (咸鱼冰)</author>
+        <atom:modified>Thu, 19 Aug 2021 12:00:06 +0900</atom:modified>
+        <guid>https://yyyIce.github.io/zh/posts/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8googletest/</guid>
+        <description>Google Colab：https://colab.research.google.com/ 1.简介 GoogleTest遵循Abseil生态哲学，Ab</description>
+        
+        <dc:creator>咸鱼冰</dc:creator>
+        <media:content url="https://yyyIce.github.io/images/feature3/chilun.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>C</category>
+            
+          
+        
+        
+        
+          
+            
+              <category>tools</category>
+            
+          
+        
+      </item>
       
       <item>
         <title>C语言：指针</title>
